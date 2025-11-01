@@ -8,3 +8,5 @@ L'objectif principal était d'établir un système de commande, de gestion de ti
 
 ## 🛠️ 2. FONCTIONNALITÉS CLÉS ET CONFIGURATION
 Le système a été configuré pour optimiser la vitesse de prise de commande et la communication avec la cuisine.
+
+### 2.1. Logiciel de Commande Mobile (Loyverse POS)
