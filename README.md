@@ -17,3 +17,4 @@ Le système a été configuré pour optimiser la vitesse de prise de commande et
 ### 2.2. Configuration du Back Office
 | Fonctionnalité | Description |
 | :--- | :--- |
+| **Gestion des Articles** | Création et structuration complète du menu avec des prix. |
