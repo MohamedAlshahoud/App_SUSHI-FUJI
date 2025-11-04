@@ -18,3 +18,4 @@ Le système a été configuré pour optimiser la vitesse de prise de commande et
 | Fonctionnalité | Description |
 | :--- | :--- |
 | **Gestion des Articles** | Création et structuration complète du menu avec des prix. |
+| **Catégories** | Création de catégories claires (Sushi, Entrée, Boissons, Plateau, etc.) pour une navigation rapide. |
