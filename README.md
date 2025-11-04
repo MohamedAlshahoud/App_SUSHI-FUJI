@@ -24,3 +24,4 @@ Le système a été configuré pour optimiser la vitesse de prise de commande et
 | **Personnalisation** | Configuration de l'En-tête (Nom, Adresse, Téléphone) et du Bas de page ("Merci pour votre visite...") sur le reçu. |
 
 ### 2.3. Optimisation Mobile
+* **Affichage sur l'écran du Serveur :** Configuration d'une **Page Personnalisée (Grille)** sur l'application mobile pour afficher directement les **Catégories** comme de gros boutons (Entrée, Boissons, Sushi, etc.). Ceci élimine l'étape de sélection du menu déroulant.
