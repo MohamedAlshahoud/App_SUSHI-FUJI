@@ -15,3 +15,5 @@ Le système a été configuré pour optimiser la vitesse de prise de commande et
 * **Accès Sécurisé :** Les serveurs accèdent à l'application mobile via un code PIN simple pour déverrouiller l'écran et envoyer les commandes.
 
 ### 2.2. Configuration du Back Office
+| Fonctionnalité | Description |
+| :--- | :--- |
